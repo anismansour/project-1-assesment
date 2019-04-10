@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+}
+
+#buttonPlus {
+  background-color: grey;
+  width: 40px;
+  height: 40px;
+}
+#buttonMin {
+  background-color: grey;
+  width: 40px;
+  height: 40px;
+}
+#textNb {
+  text-align: center;
+  width: 40px;
+  height: 40px;
+}
